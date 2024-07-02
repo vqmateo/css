@@ -1,13 +1,4 @@
-/* ==UserStyle==
-@name           kirka.io - Juli 2024
-@namespace      github.com/openstyles/stylus
-@version        1.0.0
-@description    A new userstyle
-@author         Me
-==/UserStyle== */
-
-@-moz-document url-prefix("https://kirka.io/") {
-    .pattern-bg[data-v-5edaad78] {
+.pattern-bg[data-v-5edaad78] {
     background: url(https://c.wallhere.com/photos/aa/84/selective_coloring_black_background_dark_background_simple_background_anime_girls-2184967.jpg!d) no-repeat center center;
     background-size: cover; /* Deckt den gesamten Bildschirm ab */
     width: 100%;
@@ -258,5 +249,4 @@ soc-group[data-v-0f4e863e] {
     -webkit-text-stroke: 1px var(--black);
     box-shadow: 0 .15rem 0 rgba(0, 0, 0, .315);
     cursor: pointer;
-}
 }
